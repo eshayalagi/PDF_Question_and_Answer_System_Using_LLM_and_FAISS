@@ -38,6 +38,13 @@
 The **PDF Question and Answer System Using LLM and FAISS** is an AI-powered document intelligence platform that transforms static PDF documents into interactive knowledge sources.
 
 Users can upload PDFs, ask natural language questions, and receive context-aware answers generated through the combination of **Semantic Search**, **Vector Embeddings**, and **Google Gemini LLM**.
+<img width="1914" height="777" alt="Image" src="https://github.com/user-attachments/assets/d87a9dc8-5828-4766-89a7-be02b24d9b04" />
+
+<img width="1919" height="827" alt="Image" src="https://github.com/user-attachments/assets/9203170d-a4c6-4665-9bde-ed73a9381c23" />
+
+<img width="1919" height="819" alt="Image" src="https://github.com/user-attachments/assets/129e7b30-dbb8-4f87-837f-f91a05b6ea78" />
+
+<img width="1916" height="770" alt="Image" src="https://github.com/user-attachments/assets/9cedb831-cc6d-49f3-8b75-bd8c35894b96" />
 
 ---
 
