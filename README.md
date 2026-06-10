@@ -63,110 +63,115 @@ Users can upload PDFs, ask natural language questions, and receive context-aware
 
 ---
 
-## 🏗️ System Architecture
+## 🛠️ Tech Stack
+
+| Category          | Technology                          |
+| ----------------- | ----------------------------------- |
+| 🐍 Language       | Python                              |
+| 🎨 Frontend       | Streamlit                           |
+| 🤖 LLM            | Google Gemini                       |
+| 🧠 Embeddings     | HuggingFace MiniLM                  |
+| 🔍 Vector Search  | FAISS                               |
+| 📄 PDF Processing | PyPDF2                              |
+| 📤 Export         | FPDF                                |
+| 🚀 AI Domain      | Generative AI, NLP, Semantic Search |
+
+---
+
+## 📚 Research Publication
+
+### 🏆 Published in IEEE
+
+### 📄 PDF Question and Answer System Using LLM and FAISS
+
+#### 👥 Authors
+
+* Mudabbir Naragaddi
+* Esha Yalagi
+* Omkar Yametkar
+* Dhulesh Shivakale
+* Prof. Savita Bagewadi
+
+#### 📖 Conference
+
+**2025 IEEE 4th International Conference for Advancement in Technology (ICONAT 2025)**
+
+#### 📌 DOI
+
+`10.1109/ICONAT66879.2025.11362602`
+
+#### 🔗 Publication Links
+
+* 🌐 **IEEE Xplore**
+  https://ieeexplore.ieee.org/document/11362602
+
+* 📑 **Semantic Scholar**
+  https://www.semanticscholar.org/paper/PDF-Question-and-Answer-System-Using-LLM-and-FAISS-Naragaddi-Yalagi/185e7ef26c1b99161278e774aab1b11c1a6dbeec
+
+---
+
+## 📸 Project Workflow
 
 ```text
-PDF Upload
-     │
-     ▼
-Text Extraction (PyPDF2)
-     │
-     ▼
-Text Chunking
-     │
-     ▼
-HuggingFace Embeddings
-     │
-     ▼
-FAISS Vector Index
-     │
-     ▼
-Semantic Retrieval
-     │
-     ▼
-Google Gemini LLM
-     │
-     ▼
-Context-Aware Response
+📄 Upload PDF
+        │
+        ▼
+📑 Extract Text
+        │
+        ▼
+✂️ Text Chunking
+        │
+        ▼
+🧠 Generate Embeddings
+        │
+        ▼
+🔍 Store in FAISS
+        │
+        ▼
+❓ User Query
+        │
+        ▼
+📚 Retrieve Relevant Chunks
+        │
+        ▼
+🤖 Gemini AI Response
+        │
+        ▼
+📤 Export Chat History
+```
 
+---
 
-🛠️ Tech Stack
-Category	Technology
-Language	Python
-Frontend	Streamlit
-LLM	Google Gemini
-Embeddings	HuggingFace MiniLM
-Vector Search	FAISS
-PDF Processing	PyPDF2
-Export	FPDF
-AI Domain	Generative AI, NLP, Semantic Search
-📚 Research Publication
-🏆 Published in IEEE
+## 🎯 Applications
 
-PDF Question and Answer System Using LLM and FAISS
+* 📚 Academic Research
+* ⚖️ Legal Document Analysis
+* 🏢 Enterprise Knowledge Management
+* 📄 Technical Documentation
+* 🎓 Educational Assistance
+* 🔬 Research Paper Exploration
 
-Authors:
+---
 
-Mudabbir Naragaddi
-Esha Yalagi
-Omkar Yametkar
-Dhulesh Shivakale
-Prof. Savita Bagewadi
+## 👨‍💻 Authors
 
-📖 Conference:
-2025 IEEE 4th International Conference for Advancement in Technology (ICONAT 2025)
+### Esha Yalagi
 
-📌 DOI:
-10.1109/ICONAT66879.2025.11362602
+**B.E. Computer Science (Artificial Intelligence)**
+KLE Technological University, Belagavi
 
-🔗 IEEE Xplore:
-https://ieeexplore.ieee.org/document/11362602
+### Mudabbir Naragaddi
 
-🔗 Semantic Scholar:
-https://www.semanticscholar.org/paper/PDF-Question-and-Answer-System-Using-LLM-and-FAISS-Naragaddi-Yalagi/185e7ef26c1b99161278e774aab1b11c1a6dbeec
+### Omkar Yametkar
 
-📸 Project Workflow
+### Dhulesh Shivakale
 
-1️⃣ Upload PDF
+### Prof. Savita Bagewadi
 
-2️⃣ Extract Text
+---
 
-3️⃣ Generate Embeddings
+<div align="center">
 
-4️⃣ Store in FAISS
+### ⭐ If you found this project useful, please give it a star! ⭐
 
-5️⃣ Ask Questions
-
-6️⃣ Retrieve Relevant Chunks
-
-7️⃣ Generate AI Response
-
-8️⃣ Export Chat History
-
-🎯 Applications
-
-📚 Academic Research
-
-⚖️ Legal Document Analysis
-
-🏢 Enterprise Knowledge Management
-
-📄 Technical Documentation
-
-🎓 Educational Assistance
-
-🔬 Research Paper Exploration
-
-👨‍💻 Authors
-
-Esha Yalagi
-Computer Science (AI)
-KLE Technological University
-
-Mudabbir Naragaddi
-
-Omkar Yametkar
-
-Dhulesh Shivakale
-
-Prof. Savita Bagewadi
+</div>
