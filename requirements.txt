@@ -1,0 +1,14 @@
+streamlit==1.57.0
+python-dotenv==1.1.1
+PyPDF2==3.0.1
+google-generativeai==0.8.5
+transformers==4.53.0
+torch==2.7.1
+sentence-transformers==5.0.0
+langchain==0.3.26
+langchain-community==0.3.27
+faiss-cpu==1.11.0
+huggingface-hub==0.33.0
+fpdf2==2.8.4
+numpy==1.26.4
+pandas==2.3.0
