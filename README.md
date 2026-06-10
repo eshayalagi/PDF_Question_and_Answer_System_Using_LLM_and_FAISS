@@ -116,6 +116,9 @@ Users can upload PDFs, ask natural language questions, and receive context-aware
   https://www.semanticscholar.org/paper/PDF-Question-and-Answer-System-Using-LLM-and-FAISS-Naragaddi-Yalagi/185e7ef26c1b99161278e774aab1b11c1a6dbeec
 
 ---
+<img width="1919" height="970" alt="Image" src="https://github.com/user-attachments/assets/387477ed-c93d-440c-a551-d23f3b2378dd" />
+
+<img width="1919" height="970" alt="Image" src="https://github.com/user-attachments/assets/75eb5cd9-62f9-4e72-8335-3b4b0f486d1d" />
 
 ## 📸 Project Workflow
 
