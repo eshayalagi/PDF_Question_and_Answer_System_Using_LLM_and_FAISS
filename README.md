@@ -85,6 +85,9 @@ Users can upload PDFs, ask natural language questions, and receive context-aware
 
 ---
 
+
+https://github.com/user-attachments/assets/cd6f7bce-2198-4e67-96d9-57d3ded39a9e
+
 ## 📚 Research Publication
 
 ### 🏆 Published in IEEE
